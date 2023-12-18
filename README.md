@@ -2,7 +2,9 @@
 
 <p>
 
+<!--
 [<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fmmiv-ml%2FELMED219) &nbsp; [![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/alexanderlundervold/code) &nbsp;  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/) &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMIV-ML/ELMED219/HEAD) &nbsp; [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMIV-ML/ELMED219/tree/main/)
+-->
 </p>
 
 The [course](https://www.uib.no/en/course/BMED365) is offered by the [Department of Biomedicine](https://www.uib.no/en/biomedisin) in collaboration the Medical AI group at [Mohn Medical Imaging and Visualization Center](https://mmiv.no) (MMIV).
@@ -46,19 +48,19 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
 | 14:15-15:00                 | About the course <br> [Tools], [teams] and [project]                                   |
 |                             | *Arvid Lundervold  / N.N.*                                                             |
-| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning]                         |
+| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)                         |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                                                  |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
-| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning] cont.                   |
+| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.                   |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                                                     |
-| 11:15-13:00                 |  [LAB 1: Brain imaging (mpMRI) in glioblastoma]                                        |
+| 11:15-13:00                 |  [LAB 1: Brain imaging (mpMRI) in glioblastoma](./Lab1-mpMRI-glioblastoma/)                                        |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
-| 08:15-13:00                 | [Lab 2: Deep learning]                                                                 |
+| 08:15-13:00                 | [Lab 2: Deep learning](./Lab2-DL)                                                                 |
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
-| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models]                                         |
+| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                                         |
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 3<br>Team project**  |  Joint with ELMED219 - Working on project in interdisciplinary teams                   |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
@@ -80,7 +82,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 6<br>Sat 10**        |                                                                                        |
 | 23:59                       | Deadline for the Home Project Report (hand in via MittUiB)                             |
 | **Week 7<br>Mon, Feb 12**   |                                                                                        |
-| 08:15-10:00                 | [Lab 4: Computational imaging]                                                         |
+| 08:15-10:00                 | [Lab 4: Computational imaging](./Lab4-Comp-Imag)                                                         |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 7<br>Wed, Feb 14**   |                                                                                        |
 | 08:15-12:00                 | Presentation of individual home project as **speed-poster**                            |
@@ -89,7 +91,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 08:15-10:00                 | Modeling (compartment models, and more) - motivation, demonstration                    |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 8<br>Mon, Feb 19**   |                                                                                        |
-| 08:15-10:00                 | [Lab 5: Computational modeling]                                                        |
+| 08:15-10:00                 | [Lab 5: Computational modeling](./Lab5-Comp-Model)                                                        |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 8<br>Fri, Feb 23**   |                                                                                        |
 | 08:15-10:00                 | Summing up, reflections, future perspectives AI in biomedicine                         |
