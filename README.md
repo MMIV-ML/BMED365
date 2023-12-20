@@ -46,7 +46,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | --------------------------- | -------------------------------------------------------------------------------------- |
 | **Week 1<br> Tue, Jan 2**   |                                                                                        |
 | _On your own_               | Get an overview of the course; installation of software and/or test out Google Colab   |
-|                             | Follow the instructions at [MittUiB](https://mitt.uib.no/courses/47143/pages/bmed365-computational-imaging-modelling-and-ai-in-biomedicine)                |
+|                             | Follow the instructions at [MittUiB](https://mitt.uib.no/courses/47143/pages/bmed365-computational-imaging-modelling-and-ai-in-biomedicine)   and [here](./setup.md)              |
 | **Week 1<br> Wed, Jan 3**   |                                                                                        |
 | 10:15-14:00                 | Information, [SW-installation](./setup.md)<br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://docs.google.com/presentation/d/e/2PACX-1vQeoCzJLs1ljzFROOLjvzhyB3MZ9bCRPeVk1WAT3gY8gBO3W70Rfxxugfue198wIwFTyajvBzbTn-Qr/pub?start=false&loop=false&delayms=3000)     |
 |                             | *Arvid Lundervold / Alexander S. Lundervold*   |                                |
