@@ -29,11 +29,11 @@ _NOTE: ChatGPT can make mistakes. Consider checking important information._
 Then you must install [Git for Windows](https://gitforwindows.org) (for free) before you start. See also [here](https://www.youtube.com/watch?v=J_Clau1bYco). Thereafter:
 
 <img src="./assets/You.png" width="100"> <br>
-_How to set up and use GitHub and Jupyter notebooks on **Windows**, by (i) using Anaconda,  (ii) using Visual Studio Code, (iii)  initially cloning the ELMED219 course repository, (iv) activate its conda environment  "elmed219" as specified in "environment.yml" , and (v) being able to experiment with my own notebooks (making a local copy) in this environment without getting in conflict with the original repository?_
+_How to set up and use GitHub and Jupyter notebooks on **Windows**, by (i) using Anaconda,  (ii) using Visual Studio Code, (iii)  initially cloning the ELMED219 course repository, (iv) activate its conda environment  "bmed365" as specified in "environment.yml" , and (v) being able to experiment with my own notebooks (making a local copy) in this environment without getting in conflict with the original repository?_
 
 <img src="./assets/GPT-MedAI.png" width="370"> <br>
 
-Setting up and using GitHub and Jupyter notebooks on Windows for the ELMED219 course, with Anaconda and Visual Studio Code, involves several steps. I'll guide you through them:
+Setting up and using GitHub and Jupyter notebooks on Windows for the BMED365 course, with Anaconda and Visual Studio Code, involves several steps. I'll guide you through them:
 
 ### 1. **Install Anaconda, Visual Studio Code, and Git**
 - **Anaconda:**
@@ -47,24 +47,24 @@ Setting up and using GitHub and Jupyter notebooks on Windows for the ELMED219 co
 - **Git:**
   - Download and install Git for Windows from [Git's official site](https://git-scm.com/download/win).
 
-### 2. **Clone the ELMED219 Repository**
+### 2. **Clone the BMED365 Repository**
 - Open Git Bash or the terminal.
 - Navigate to the directory where you want the repository.
 - Clone the repository:
   ```bash
-  git clone https://github.com/MMIV-ML/ELMED219.git
+  git clone https://github.com/MMIV-ML/BMED365.git
   ```
 
 ### 3. **Set Up the Conda Environment from the "environment.yml"**
 - Open Anaconda Prompt.
 - Navigate to the cloned repository's directory.
-- Create the `elmed219` environment from the `environment.yml` file:
+- Create the `bmed365` environment from the `environment.yml` file:
   ```bash
   conda env create -f environment.yml
   ```
-- Activate the `elmed219` environment:
+- Activate the `bmed365` environment:
   ```bash
-  conda activate elmed219
+  conda activate bmed365
   ```
 
 ### 4. **Using Jupyter Notebooks via Anaconda**
@@ -76,14 +76,14 @@ Setting up and using GitHub and Jupyter notebooks on Windows for the ELMED219 co
 
 ### 5. **Working with Jupyter in Visual Studio Code**
 - Open VS Code.
-- Open the folder containing the cloned ELMED219 repository.
+- Open the folder containing the cloned BMED365 repository.
 - Make sure to select the `elmed219` environment in VS Code (bottom left corner).
 - Open or create Jupyter notebook files (`.ipynb`) within VS Code.
 
 ### 6. **Experimenting with Your Own Notebooks**
 - Within the cloned repository, create a new folder, e.g., `MyNotebooks`, for your experiments.
 - Make sure to add `MyNotebooks/` to the `.gitignore` file to avoid conflicts with the original repository.
-- Develop and test your notebooks in this folder, using the `elmed219` environment.
+- Develop and test your notebooks in this folder, using the `bmed365` environment.
 
 ### 7. **Manage Changes without Affecting the Original Repository**
 - Regularly pull updates from the original ELMED219 repository to stay updated.
@@ -95,7 +95,7 @@ Setting up and using GitHub and Jupyter notebooks on Windows for the ELMED219 co
 - **Familiarize Yourself with Tools:** Explore Anaconda, VS Code, and Git functionalities.
 - **Backup Your Work:** Consider other backup options for your `MyNotebooks` folder.
 
-This setup should provide a robust environment for working with the ELMED219 course materials while enabling you to experiment in a separate space without affecting the original repository. If you encounter any issues or have further questions, feel free to ask for assistance. Happy coding!
+This setup should provide a robust environment for working with the BMED365 course materials while enabling you to experiment in a separate space without affecting the original repository. If you encounter any issues or have further questions, feel free to ask for assistance. Happy coding!
 
 
 <img src="./assets/You.png" width="100"> <br>
@@ -134,7 +134,7 @@ Certainly! Using the command line (shell) in Windows to work with course materia
 ### Working with Git in the Command Line
 - **Cloning a Repository:**
   - Use `git clone [repository URL]` to clone a repository.
-  - Example: `git clone https://github.com/MMIV-ML/ELMED219.git` clones the ELMED219 repository.
+  - Example: `git clone https://github.com/MMIV-ML/BMED365.git` clones the BMED365 repository.
 
 - **Checking the Status:**
   - `git status` shows the status of changes as untracked, modified, or staged.
@@ -178,12 +178,12 @@ Then you must install [xcode](https://developer.apple.com/xcode/resources) (for 
 - Type the following command string: `xcode-select --install`
 
 <img src="./assets/You.png" width="100"> <br>
-_How to set up and use GitHub and Jupyter notebooks on **Mac**, by (i) using Anaconda,  (ii) using Visual Studio Code, (iii)  initially cloning the ELMED219 course repository, (iv) activate its conda environment  "elmed219" as specified in "environment.yml" , and (v) being able to experiment with my own notebooks (making a local copy) in this environment without getting in conflict with the original repository?_
+_How to set up and use GitHub and Jupyter notebooks on **Mac**, by (i) using Anaconda,  (ii) using Visual Studio Code, (iii)  initially cloning the BMED365 course repository, (iv) activate its conda environment  "bmed365" as specified in "environment.yml" , and (v) being able to experiment with my own notebooks (making a local copy) in this environment without getting in conflict with the original repository?_
 
 
 
 <img src="./assets/GPT-MedAI.png" width="370"> <br>
-Setting up and using GitHub and Jupyter notebooks on a Mac, particularly for working with the ELMED219 course materials using Anaconda and Visual Studio Code, involves a series of steps. Here's a detailed guide to help you through the process:
+Setting up and using GitHub and Jupyter notebooks on a Mac, particularly for working with the BMED365 course materials using Anaconda and Visual Studio Code, involves a series of steps. Here's a detailed guide to help you through the process:
 
 ### 1. **Install Anaconda, Visual Studio Code, and Git**
 - **Anaconda:**
@@ -198,28 +198,28 @@ Setting up and using GitHub and Jupyter notebooks on a Mac, particularly for wor
   - Git usually comes pre-installed on Mac. To check, open Terminal and type `git --version`.
   - If not installed, you can install it via [Homebrew](https://brew.sh/) (a package manager for Mac) by running `brew install git` in the Terminal.
 
-### 2. **Clone the ELMED219 Repository**
+### 2. **Clone the BMED365 Repository**
 - Open Terminal.
 - Navigate to the directory where you want to clone the repository, e.g., `cd ~/Documents`.
 - Clone the repository:
   ```bash
-  git clone https://github.com/MMIV-ML/ELMED219.git
+  git clone https://github.com/MMIV-ML/BMED365.git
   ```
-- Move into the cloned directory: `cd ELMED219`.
+- Move into the cloned directory: `cd BMED365`.
 
 ### 3. **Set Up and Activate the Conda Environment**
 - Ensure Anaconda is properly installed by typing `conda --version` in Terminal.
-- In the ELMED219 directory, create the `elmed219` environment using the `environment.yml` file:
+- In the BMED365 directory, create the `bmed365` environment using the `environment.yml` file:
   ```bash
   conda env create -f environment.yml
   ```
-- Activate the `elmed219` environment:
+- Activate the `bmed365` environment:
   ```bash
-  conda activate elmed219
+  conda activate bmed365
   ```
 
 ### 4. **Using Jupyter Notebooks via Anaconda**
-- With the `elmed219` environment active, start Jupyter Notebook:
+- With the `bnmed365` environment active, start Jupyter Notebook:
   ```bash
   jupyter notebook
   ```
@@ -227,17 +227,17 @@ Setting up and using GitHub and Jupyter notebooks on a Mac, particularly for wor
 
 ### 5. **Working with Jupyter in Visual Studio Code**
 - Open VS Code.
-- Open the folder containing the ELMED219 repository by going to "File" > "Open...".
-- Ensure the `elmed219` environment is selected in VS Code (visible in the bottom left corner or the Python extension tab).
+- Open the folder containing the BMED365 repository by going to "File" > "Open...".
+- Ensure the `bmed365` environment is selected in VS Code (visible in the bottom left corner or the Python extension tab).
 - Open or create Jupyter notebook files (`.ipynb`) within VS Code.
 
 ### 6. **Experimenting with Your Own Notebooks**
-- Inside the ELMED219 directory, create a new folder, say `MyNotebooks`, for your personal experiments.
+- Inside the BMED365 directory, create a new folder, say `MyNotebooks`, for your personal experiments.
 - Add this folder to the `.gitignore` file (create one if it doesn't exist) to prevent conflicts with the original repository.
-- Work on your notebooks within this folder using the `elmed219` environment.
+- Work on your notebooks within this folder using the `bmed365` environment.
 
 ### 7. **Manage Changes without Affecting the Original Repository**
-- Regularly pull updates from the ELMED219 repository to stay updated:
+- Regularly pull updates from the BMED365 repository to stay updated:
   ```bash
   git pull origin main
   ```
@@ -247,7 +247,7 @@ Setting up and using GitHub and Jupyter notebooks on a Mac, particularly for wor
 - Familiarize yourself with Terminal commands for navigating and managing files.
 - Backup your work regularly, especially the contents of `MyNotebooks`.
 
-Following these steps, you should be able to work with the ELMED219 course materials using Jupyter notebooks, manage the course materials via Git, and experiment with your own notebooks in a managed environment. If you encounter any issues or need further assistance, feel free to reach out for help.
+Following these steps, you should be able to work with the BMED365 course materials using Jupyter notebooks, manage the course materials via Git, and experiment with your own notebooks in a managed environment. If you encounter any issues or need further assistance, feel free to reach out for help.
 
 <img src="./assets/You.png" width="100"> <br>
 _Can you help me with using the corresponding command line in **MacOS** to work with the course material locally, using VS Code, and Git ? Please give me details on how to start  and stop the command line (shell), and explain to me the use of important command line commands to navigate, manipulate, and display files and directories on my disk._
@@ -289,7 +289,7 @@ Certainly! Working with course materials locally on macOS using the command line
 ### Working with Git in the Terminal
 - **Cloning a Repository:**
   - Use `git clone [repository URL]` to clone a repository.
-  - Example: `git clone https://github.com/MMIV-ML/ELMED219.git` clones the ELMED219 repository.
+  - Example: `git clone https://github.com/MMIV-ML/BMED365.git` clones the BMED365 repository.
 
 - **Checking Status:**
   - `git status` shows the status of changes in the current repository.
@@ -319,7 +319,7 @@ Certainly! Working with course materials locally on macOS using the command line
 - **Command History:** Use the `Up` and `Down` arrow keys to cycle through previously used commands.
 - **Copying and Pasting:** Use `Cmd + C` to copy and `Cmd + V` to paste in the Terminal.
 
-By combining these command-line skills with VS Code and Git, you'll have a powerful setup for managing and working on the ELMED219 course materials. If you have any specific questions or need further assistance, feel free to ask.
+By combining these command-line skills with VS Code and Git, you'll have a powerful setup for managing and working on the BMED365 course materials. If you have any specific questions or need further assistance, feel free to ask.
 
 # Are you using Linux?
 Then you are likely familiar with the command line (shell) and can modify the installation procedures described for MacOS. 
@@ -370,7 +370,7 @@ Colab notebooks are stored in [Google Drive](https://drive.google.com/drive/my-d
 _I prefer to use COLAB in the course. Please provide information about colab and how to proceed. What about using my own notebooks and data?_
 
 <img src="./assets/GPT-MedAI.png" width="370"> <br>
-Using Google Colab (short for Colaboratory) is a great choice for working on the ELMED219 course, especially if you prefer an environment that doesn't require local setup for Python and Jupyter Notebooks. Here's an overview and guidance on how to use Google Colab, including working with your own notebooks and data.
+Using Google Colab (short for Colaboratory) is a great choice for working on the BMED365 course, especially if you prefer an environment that doesn't require local setup for Python and Jupyter Notebooks. Here's an overview and guidance on how to use Google Colab, including working with your own notebooks and data.
 
 ## What is Google Colab?
 - **Overview:** Google Colab is a free, cloud-based service that provides a Jupyter notebook environment. It allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs, and easy sharing.
@@ -427,14 +427,14 @@ Using Google Colab (short for Colaboratory) is a great choice for working on the
 - **Internet Dependency:** Since Colab is cloud-based, you'll need a stable internet connection to use it.
 - **Session Limits:** Be aware that Colab sessions are limited (runtime and GPU usage), and you might lose your session if you're inactive for too long or exceed usage limits.
 
-Google Colab is an efficient and powerful tool for working on machine learning and data science projects, making it suitable for your ELMED219 course. It allows you to focus on learning and coding without worrying about your local environment setup. If you have specific needs or run into any issues, feel free to seek further assistance.
+Google Colab is an efficient and powerful tool for working on machine learning and data science projects, making it suitable for your BMED365 course. It allows you to focus on learning and coding without worrying about your local environment setup. If you have specific needs or run into any issues, feel free to seek further assistance.
 
 # Install and test your course environment
 
 After you have successfully installed Anaconda, Git, VS Code, and cloned the ELMED219 corse repository (see above): 
 
 ## Test your installation:
-Inspect and run the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-optional-imaging` directory:
+Inspect and run the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/BMED365/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-optional-imaging` directory:
 ```bash
 cd Lab1-mpMRI-glioblastoma/Lab-optional-imaging
 jupyter notebook  (or, jupyter lab, or, code . )
@@ -446,7 +446,7 @@ The code and environment will be updated during the course. Run the following co
 * Update code: `git pull`
 * Update environment:
 ```bash
-conda activate elmed219
+conda activate bmed365
 conda env update
 ```
 
