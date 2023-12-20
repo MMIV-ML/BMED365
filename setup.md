@@ -68,7 +68,7 @@ Setting up and using GitHub and Jupyter notebooks on Windows for the BMED365 cou
   ```
 
 ### 4. **Using Jupyter Notebooks via Anaconda**
-- With the `elmed219` environment active, launch Jupyter Notebook:
+- With the `bmed365` environment active, launch Jupyter Notebook:
   ```bash
   jupyter notebook
   ```
@@ -77,7 +77,7 @@ Setting up and using GitHub and Jupyter notebooks on Windows for the BMED365 cou
 ### 5. **Working with Jupyter in Visual Studio Code**
 - Open VS Code.
 - Open the folder containing the cloned BMED365 repository.
-- Make sure to select the `elmed219` environment in VS Code (bottom left corner).
+- Make sure to select the `bmed365` environment in VS Code (bottom left corner).
 - Open or create Jupyter notebook files (`.ipynb`) within VS Code.
 
 ### 6. **Experimenting with Your Own Notebooks**
@@ -86,7 +86,7 @@ Setting up and using GitHub and Jupyter notebooks on Windows for the BMED365 cou
 - Develop and test your notebooks in this folder, using the `bmed365` environment.
 
 ### 7. **Manage Changes without Affecting the Original Repository**
-- Regularly pull updates from the original ELMED219 repository to stay updated.
+- Regularly pull updates from the original BMED365 repository to stay updated.
 - For your work in `MyNotebooks`, you can either:
   - Use Git to manage and track changes.
   - Or, if you prefer not to use Git for personal experiments, just save your work locally.
