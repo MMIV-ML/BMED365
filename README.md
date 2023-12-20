@@ -49,7 +49,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 |                             | Follow the instructions at [MittUiB](https://mitt.uib.no/courses/47143/pages/bmed365-computational-imaging-modelling-and-ai-in-biomedicine)                |
 | **Week 1<br> Wed, Jan 3**   |                                                                                        |
 | 10:15-14:00                 | Information, [SW-installation](./setup.md)<br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://docs.google.com/presentation/d/e/2PACX-1vQeoCzJLs1ljzFROOLjvzhyB3MZ9bCRPeVk1WAT3gY8gBO3W70Rfxxugfue198wIwFTyajvBzbTn-Qr/pub?start=false&loop=false&delayms=3000)     |
-|                             | *Arvid Lundervold / N.N.*   |                                |
+|                             | *Arvid Lundervold / Alexander S. Lundervold*   |                                |
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
 | 14:15-15:00                 | About the course <br> [Tools], [teams] and [project](./Project)                        |
 |                             | *Arvid Lundervold  / N.N.*                                                             |
