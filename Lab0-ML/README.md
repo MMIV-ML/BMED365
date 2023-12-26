@@ -1,12 +1,13 @@
 # Lab 0: Introduction to theory and tools for machine learning
 
-This lab will give a quick example-based introduction to basic ideas in machine learning, using Python and scikit-learn. 
+This lab will give a quick example-based introduction to basic ideas in **machine learning**, using Python and *scikit-learn*. <br> We will also introduce elements of **graph theory**, **network science**, and the concept of **patient similarity networks** (PSN) using *NetworkX* - a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
 
 ## Slides
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
 
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vR0KosuGRHqFKR1X-LmggiR-6wdfFSdsYdIIfDIcXYQ6qg1wW0hqHrsWIQJCMqbRLM3ouCGoen--SEl/pub?start=false&loop=false&delayms=3000"><img src="assets/slide0-networks.png"></a>
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
 
