@@ -53,20 +53,22 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
 | 14:15-15:00                 | About the course <br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [teams] and [project](./Project)                        |
 |                             | *Arvid Lundervold  / N.N.*                                                             |
-| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)                         |
-|                             | *Ben Bjørsvik / Arvid Lundervold*                                                                                  |
+| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
+|                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
-| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.                   |
-|                             | *Ben Bjørsvik / Arvid Lundervold*                                                                                     |
-| 11:15-13:00                 |  [LAB 1: Brain imaging (mpMRI) in glioblastoma](./Lab1-mpMRI-glioblastoma/)                                        |
+| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.        |
+|                             | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
+|                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
+| 11:15-13:00                 | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
+|                             | [LAB 1: Brain imaging (mpMRI) in glioblastoma](./Lab1-mpMRI-glioblastoma/)             |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
-| 08:15-13:00                 | [Lab 2: Deep learning](./Lab2-DL)                                                                 |
+| 08:15-13:00                 | [Lab 2: Deep learning](./Lab2-DL)                                                      |
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
-| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                                         |
-|                             | *Arvid Lundervold*                                                              |
+| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
+|                             | *Arvid Lundervold*                                                                     |
 | **Week 3<br>Team project**  |  Joint with ELMED219 - Working on project in interdisciplinary teams                   |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
 | 09:00-12:00                 | Crash-course in Python programming                                                     |
