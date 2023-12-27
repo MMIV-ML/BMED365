@@ -192,8 +192,7 @@ data
 - **The (web) [Bloch simulator](http://drcmr.dk/new-bloch-simulator)** from the Danish Research Centre for Magnetic Resonance and TDU (http://drcmr.dk/BlochSimulator)
 - **MRiLab** A Numerical Magnetic Resonance Imaging Simulation Platform in MATLAB by Fang Liu (https://github.com/leoliuf/MRiLab)
 
-- **MRI-education-resources** UCSF Peder Larson Research Group
- (https://github.com/LarsonLab/MRI-education-resources/tree/master/Notebooks) _Highly recommended_
+- **MRI-education-resources** UCSF Peder Larson Research Group (https://github.com/LarsonLab/MRI-education-resources) _Highly recommended_
 
 - **Pulse sequence graphics** by Daniel Gomez (https://github.com/dangom/mr-sequence-diagrams/blob/master/README.org)
 
