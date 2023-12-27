@@ -1,4 +1,4 @@
-# Digital imaging and image analysis (optional part)
+# Digital imaging and image analysis (recommended for BMED365, optional for ELMED219)
 
 
 ### Before you start on this optional Lab on imaging (also introducing MRI and IMC):
