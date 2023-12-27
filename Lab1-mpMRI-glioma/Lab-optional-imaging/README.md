@@ -3,7 +3,7 @@
 (optional for ELMED219)
 
 
-### Before you start on this optional Lab on imaging (also introducing MRI and IMC):
+### Before you start on this recommended Lab on imaging (also introducing MRI and IMC):
 
 
 #### Activate the environment (see local [`setup.md`](../../setup.md)):
