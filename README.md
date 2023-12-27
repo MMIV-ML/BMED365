@@ -60,7 +60,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 |                             | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | 11:15-13:00                 | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
-|                             | [LAB 1: Brain imaging (mpMRI) in glioblastoma](./Lab1-mpMRI-glioblastoma/)             |
+|                             | [LAB 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)             |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
