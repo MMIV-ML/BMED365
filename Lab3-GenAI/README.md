@@ -78,7 +78,7 @@ This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is h
 - Read about the API in the [OpenAI Documentation](https://beta.openai.com/docs/introduction)
 - Get help in the [OpenAI Help Center](https://help.openai.com/en)
 - Discuss the API in the [OpenAI Community Forum](https://community.openai.com/top?period=monthly) or [OpenAI Discord channel](https://discord.com/invite/openai)
- See example prompts in the [OpenAI Examples]
+- See example prompts in the [OpenAI Examples](https://beta.openai.com/examples)
 
 ---------------
 
