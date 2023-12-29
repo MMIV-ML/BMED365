@@ -51,23 +51,23 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 10:15-14:00<br>BB Hist 1    | Information, [SW-installation](./setup.md)<br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://docs.google.com/presentation/d/e/2PACX-1vQeoCzJLs1ljzFROOLjvzhyB3MZ9bCRPeVk1WAT3gY8gBO3W70Rfxxugfue198wIwFTyajvBzbTn-Qr/pub?start=false&loop=false&delayms=3000)     |
 |                             | *Arvid Lundervold / Alexander S. Lundervold*   |                                |
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
-| 14:15-15:00                 | [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [teams] and [project](./Project)                        |
-|                             | *Arvid Lundervold  / N.N.*                                                             |
-| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
+| 14:15-15:00<br>BB Hist 1     | [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [teams] and [project](./Project)      |
+|                             | *Arvid Lundervold  / Ben Bjørsvik*                                                             |
+| 15:15-16:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
-| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.        |
+| 10:15-11:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.        |
 |                             | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
-| 11:15-13:00                 | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
+| 11:15-13:00<br>BB Hist 1    | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
 |                             | [LAB 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)             |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
-| 08:15-13:00                 | [Lab 2: Deep learning](./Lab2-DL)                                                      |
+| 08:15-13:00<br>BB Hist 1    | [Lab 2: Deep learning](./Lab2-DL)                                                      |
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
-| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
+| 08:15-13:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 3<br>Team project**  |  Joint with ELMED219 - Working on project in interdisciplinary teams                   |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
