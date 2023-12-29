@@ -71,15 +71,15 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 3<br>Team project**  |  Joint with ELMED219 - Working on project in interdisciplinary teams                   |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
-| 09:00-12:00                 | Crash-course in Python programming                                                     |
+| 09:00-12:00<br>BB Hist 1    | Crash-course in Python programming                                                     |
 |                             | *Ben Bjørsvik*                                                                         |
-| 13:00-16:00                 | Meet-up for team project brainstorming and coaching                                    |
+| 13:00-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid Lundervold / N.N.*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
-| 08:15-10:00                 | Project presentations by team  (jointly with ELMED219)                                 |
+| 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with ELMED219)                                 |
 |                             | *Arvid Lundervold / N.N.*                                                              |
 | **Week 4<br>Fri, Jan 26**   |                                                                                        |
-| 08:15-10:00                 | Imaging (IMC and mpMRI) - motivation, demonstration                                    |
+| 08:15-10:00<br>BB Hist 1    | Imaging (IMC and mpMRI) - motivation, demonstration                                    |
 |                             | *Arvid Lundervold*                                                                     |
 | 16:00                       | Deadline for the Team Project Report - joint with ELMED219 (hand in via MittUiB)       |
 | **Week 5**                  |                                                                                        |
@@ -89,19 +89,19 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 6<br>Sat 10**        |                                                                                        |
 | 23:59                       | Deadline for the Home Project Report (hand in via MittUiB)                             |
 | **Week 7<br>Mon, Feb 12**   |                                                                                        |
-| 08:15-10:00                 | [Lab 4: Computational imaging](./Lab4-Comp-Imag)                                                         |
+| 08:15-10:00<br>BB Hist 1    | [Lab 4: Computational imaging](./Lab4-Comp-Imag)                                                         |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 7<br>Wed, Feb 14**   |                                                                                        |
-| 08:15-12:00                 | Presentation of individual home project as **speed-poster**                            |
+| 08:15-12:00<br>BB Hist 1    | Presentation of individual home project as **speed-poster**                            |
 |                             | *Organized as "leave-one-out": each student present, the others comment*               |
 | **Week 7<br>Fri, Feb 16**   |                                                                                        |
-| 08:15-10:00                 | Modeling (compartment models, and more) - motivation, demonstration                    |
+| 08:15-10:00<br>BB Hist 1      | Modeling (compartment models, and more) - motivation, demonstration                    |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 8<br>Mon, Feb 19**   |                                                                                        |
 | 08:15-10:00                 | [Lab 5: Computational modeling](./Lab5-Comp-Model)                                                        |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 8<br>Fri, Feb 23**   |                                                                                        |
-| 08:15-10:00                 | Summing up, reflections, future perspectives AI in biomedicine                         |
+| 08:15-10:00<br>BB Hist 1    | Summing up, reflections, future perspectives AI in biomedicine                         |
 |                             | *Arvid Lundervold / N.N.*                                                              |
 |**Mon, Feb 26** | 
 ||**Home exam**: Duration: 2 hours;  <br>Assignment is handed out: 26.02.2024, 13:00; <br>Submission deadline: 26.02.2024, 15:00; <br>Examination system: Inspera Digital exam
