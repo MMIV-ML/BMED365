@@ -32,6 +32,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Introduction to Generative AI_ by [Gwendolyn Stripling](https://www.linkedin.com/in/gwendolyn-stripling)  Google Cloud Tech [[link](https://www.youtube.com/watch?v=G2fqAlgmoPo)]   (22:07 min)
   - see also her [_Low-code AI_](https://www.amazon.com/dp/1098146824/ref=tsm_1_fb_lk) book with [code](https://github.com/maabel0712/low-code-ai)
 
+_New APPLE AI_ by [TheAIGRID](https://theaigrid.com)  (Apples New Multimodal AI BEATS GPT-4 Vision) **Not an Apple production** [[link](https://youtu.be/utTtrwW9GpM)] (22:24 min)
+  - see also Ferret: "An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response" [[paper](https://arxiv.org/abs/2310.07704)] [[code](https://github.com/apple/ml-ferret)]
+
 - _Geoffrey Hinton: Large Language Models in Medicine. They Understand and Have Empathy_ by [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol), [Ground Truth](https://erictopol.substack.com/about) (highly recommended podcast, with transcript)  [[link](https://erictopol.substack.com/p/geoffrey-hinton-large-language-models)] (36:33 min)
 
 - _Intro to Large Language Models_ by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) [[link](https://www.youtube.com/watch?v=zjkBMFhNj_g)] (59:47 min)
