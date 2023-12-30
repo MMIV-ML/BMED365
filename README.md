@@ -64,7 +64,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
 | 09:15-13:00<br>BB Hist 1    | Crash-course in Python programming                                                     |
-|                             | **Ben Bjørsvik*                                                                        |
+|                             | *Ben Bjørsvik*                                                                         |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
 | 08:15-13:00<br>BB Hist 1    | [Lab 2: Deep learning](./Lab2-DL)                                                      |
 |                             | *Arvid Lundervold / N.N.*                                                              |
