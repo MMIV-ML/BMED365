@@ -68,7 +68,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
 |                             | *Arvid Lundervold / N.N.*                                                              |
-| **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                    |
+| **Week 3<br>Team project**  |  Joint with ELMED219 - Working on project in interdisciplinary teams                    |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
 |                             | *Arvid Lundervold*                                                                     |
