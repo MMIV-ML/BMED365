@@ -1,6 +1,6 @@
 # Lab 3: Generative AI and Large Language Models
 
-This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2023-12-30_
+This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2024-01-02_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -36,6 +36,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   - see also Ferret: "An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response" [[paper](https://arxiv.org/abs/2310.07704)] [[code](https://github.com/apple/ml-ferret)] [license](https://github.com/apple/ml-ferret/blob/main/LICENSE)
 
 - _Geoffrey Hinton: Large Language Models in Medicine. They Understand and Have Empathy_ by [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol), [Ground Truth](https://erictopol.substack.com/about) (highly recommended podcast, with transcript)  [[link](https://erictopol.substack.com/p/geoffrey-hinton-large-language-models)] (36:33 min)
+
+- _Embeddings: What they are and why they matter_ by [Simon Willison](https://simonwillison.net/about) [[link](https://youtu.be/ArnMdc-ICCM?si=NodSkzQ8tpLUMPnS)] (38:37 min)
+  - see also his informative [[Webblog](https://simonwillison.net/2023/Oct/23/embeddings)] on the same topic, and his [... AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023) + this [Crash Course in Embeddings](https://youtu.be/ySus5ZS0b94?si=TeU2VNUjlSgfVT3L) (18:40 min)
 
 - _Intro to Large Language Models_ by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) [[link](https://www.youtube.com/watch?v=zjkBMFhNj_g)] (59:47 min)
 
