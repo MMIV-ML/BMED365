@@ -1,5 +1,7 @@
 # Lab 0: Beginning with Python, Pandas and Medical imaging
 
+Last updated: 2024-01-17 (with bmed365 kernel),  A. Lundervold
+
 This lab section will give a quick example-based introduction to Python, Pandas, and to reading, processing and storing medical imaging data. 
 
 
@@ -23,9 +25,9 @@ Short description on the three notesbooks in this Lab0 section.
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
-|  [**00-begin-python-programming-language.ipynb**](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/00-begin-python-programming-language.ipynb) <br> Basic elements of the Python programming language: data types, lists, dictionaries, functions, and classes. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/00-begin-python-programming-language.ipynb)<br>
-|  [**01-begin-pandas-basics.ipynb**](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/01-begin-pandas-basics.ipynb) <br>First section uses the Iris flower data as example to illustrate the basics of Pandas. Last section "10 Minutes to pandas" is a nice and more comprehensive introduction to Pandas.  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/01-begin-pandas-basics.ipynb)<br>
-|  [**02-begin-image-processing-basics.ipynb**](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/02-begin-image-processing-basics.ipynb) <br>This notebook (partly with Marek Kocinski) gives and intruduction to medical imaging processing in Python, using the Kiwi fruit 3D data set (acquired on the 7 T animal scanner at UiB) as an example.  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/02-begin-image-processing-basics.ipynb)<br>
+|  [**00-begin-python-programming-language.ipynb**](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/00-begin-python-programming-language.ipynb) <br> Basic elements of the Python programming language: data types, lists, dictionaries, functions, and classes. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/00-begin-python-programming-language.ipynb)<br>
+|  [**01-begin-pandas-basics.ipynb**](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/01-begin-pandas-basics.ipynb) <br>First section uses the Iris flower data as example to illustrate the basics of Pandas. Last section "10 Minutes to pandas" is a nice and more comprehensive introduction to Pandas.  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/01-begin-pandas-basics.ipynb)<br>
+|  [**02-begin-image-processing-basics.ipynb**](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/02-begin-image-processing-basics.ipynb) <br>This notebook (partly with Marek Kocinski) gives and intruduction to medical imaging processing in Python, using the Kiwi fruit 3D data set (acquired on the 7 T animal scanner at UiB) as an example.  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab0-ML/Lab0-begin-python-pandas-medim/02-begin-image-processing-basics.ipynb)<br>
 
 </p>
 
