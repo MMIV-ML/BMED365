@@ -46,7 +46,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | --------------------------- | -------------------------------------------------------------------------------------- |
 | **Week 1<br> Tue, Jan 2**   |                                                                                        |
 | _On your own_               | Get an [overview of the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000); installation of software and/or test out Google Colab   |
-|                             | Follow the instructions at [MittUiB](https://mitt.uib.no/courses/47143/pages/bmed365-computational-imaging-modelling-and-ai-in-biomedicine)   and [here](./setup.md)        
+|                             | Follow the instructions at [**setup.md**](./setup.md) and [MittUiB](https://mitt.uib.no/courses/47143)        
 | **Week 1<br> Wed, Jan 3**   |                                                                                        |
 | 10:15-14:00<br>BB Hist 1    | Information [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://docs.google.com/presentation/d/e/2PACX-1vQeoCzJLs1ljzFROOLjvzhyB3MZ9bCRPeVk1WAT3gY8gBO3W70Rfxxugfue198wIwFTyajvBzbTn-Qr/pub?start=false&loop=false&delayms=3000)    |
 |                             | *Arvid Lundervold*                                                                     |                                |
@@ -67,14 +67,14 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 |                             |  *Ben Bjørsvik*                                                                        |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
-|                             | *Arvid Lundervold / N.N.*                                                              |
+|                             | *Arvid Lundervold*                                                              |
 | **Week 3<br>Team project**  |  Joint with ELMED219 - Working on project in interdisciplinary teams                    |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
-|                             | *Arvid Lundervold / N.N.*                                                              |
+|                             | *Arvid Lundervold / Ben Bjørsvik*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with ELMED219)                                 |
 |                             | *Arvid Lundervold / Ben Bjørsvik*                                                      |
