@@ -45,7 +45,7 @@ complex software, avoiding pitfalls, and become a safe user.
 
 ***
 
-#### Some relevant topics for the BMED360 course
+#### Some relevant topics for the BMED365 course
 
 - 1.1 - What Is a Program? And What Is Programming? (read the section [The First Few Steps](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3_1.pdf))
 - 1.2 - A Python Program with Variables [[ball](./src/ball.py)]
