@@ -1,10 +1,12 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
+#  Computational imaging, modeling and AI in biomedicine - BMED365
+
+Last updated: 2024-01-18 (using the `bmed365` kernel) by Arvid Lundervold
 
 
-![BMED360 outbreak_science_image](./assets/outbreak-science-logo.png)
+![BMED365 outbreak_science_image](./assets/outbreak-science-logo.png)
 
 
-# Ad hoc curriculum on COVID-19 and "outbreak science"
+# Ad hoc on COVID-19 and "outbreak science"
 (work in progress)
 
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)), and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, _optimization_ ..., every topic supported by Jupyter notebooks (see below) - with programming exercises and challenges
@@ -75,4 +77,3 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - imaging ([img](./img/README_img.md))<br>
 
 
-Last updated: 23 May 2021 (A.L)
