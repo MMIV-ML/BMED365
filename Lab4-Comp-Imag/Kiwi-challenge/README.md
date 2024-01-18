@@ -1,7 +1,6 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
+# Lab 4 Computational imaging (BMED365)
 
-
-## Midterm project:
+Last updated 2024-01-18 (using the `bmed365` kernel) by Arvid Lundervold
 
 ### The KIWI fruit seed segmentation challenge
 
