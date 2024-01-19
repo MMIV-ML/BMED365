@@ -185,7 +185,7 @@ The chat interface sends data to generative AI models hosted by third parties. P
 
 Once you have started JupyterLab, click the new "chat" icon in the left side panel to open the chat interface. You can right-click on the panel icon and move it to the other side, if you prefer.
 
-<img src="../_static/chat-getting-started.png"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-getting-started.png?raw=true"
     alt="Screen shot of the setup interface"
     class="screenshot" />
 
@@ -204,37 +204,37 @@ Your language model and your embedding model do not need to be provided by the s
 :::
 
 
-<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-getting-started.png?raw=true"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-select-model.png?raw=true"
     alt="Screen shot of the setup interface, showing model selections and key"
     class="screenshot" />
 
 Before you can use the chat interface, you need to provide your API keys for the model providers that you have selected. Paste or type your keys into the boxes provided.
 
-<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-select-model.png?raw=true"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-select-model-complete.png?raw=true"
     alt="Screen shot of the setup interface, showing model selections and key populated"
     class="screenshot" />
 
 Once you have set all the necessary keys, click the "back" (left arrow) button in the upper-left corner of the Jupyter AI side panel. The chat interface now appears, and you can ask a question using the message box at the bottom.
 
-<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-select-model-complete.png?raw=true"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-icon-left-tab-bar.png?raw=true"
     alt="Screen shot of the initial, blank, chat interface."
     class="screenshot" />
 
 To compose a message, type it in the text box at the bottom of the chat interface and press <kbd>ENTER</kbd> to send it. You can press <kbd>SHIFT</kbd>+<kbd>ENTER</kbd> to add a new line. (These are the default keybindings; you can change them in the chat settings pane.) Once you have sent a message, you should see a response from Jupyternaut, the Jupyter AI chatbot.
 
-<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-icon-left-tab-bar.png?raw=true"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-hello-world.png?raw=true"
     alt='Screen shot of an example "Hello world" message sent to Jupyternaut, who responds with "Hello world, how are you today?"'
     class="screenshot" />
 
 The chat backend remembers the last two exchanges in your conversation and passes them to the language model. You can ask follow up questions without repeating information from your previous conversations. Here is an example of a chat conversation with a follow up question:
 
 #### Initial question
-<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-hello-world.png?raw=true"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-history-context-1.png?raw=true"
     alt='Screen shot of an example coding question sent to Jupyternaut, who responds with the code and explanation.'
     class="screenshot" />
 
 #### Follow-up question
-<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-history-context-1.png?raw=true"
+<img src="https://github.com/jupyterlab/jupyter-ai/blob/main/docs/source/_static/chat-history-context-2.png?raw=true"
     alt='Screen shot of an example follow up question sent to Jupyternaut, who responds with the improved code and explanation.'
     class="screenshot" />
 
