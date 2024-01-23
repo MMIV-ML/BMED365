@@ -23,8 +23,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Learning motivations - watch these
 (in the order of duration ...)
 
-- _The future of computational imaging_ by Gordon Wetzstein [**Stanford University School of Engeneering**](https://crfm.stanford.edu) [[link](https://youtu.be/Vw6DdUAnRXU?si=1-CFfE628stSrFBe)] (35:48 min)
-   - see also their The Future of Everything [podcast](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvBYuJvDuDZliJFv9ZDmKs_) 
+- _The future of computational imaging_ by [Gordon Wetzstein](https://scholar.google.com/citations?user=VOf45S0AAAAJ&hl=en), Stanford University [Computational Imaging Lab](https://www.computationalimaging.org) [[link](https://youtu.be/Vw6DdUAnRXU?si=1-CFfE628stSrFBe)] (35:48 min)
+   - see also Stanford University School of Engineering: The Future of Everything [podcast](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvBYuJvDuDZliJFv9ZDmKs_) 
    
    
 ### Readings:
