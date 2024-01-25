@@ -5,7 +5,7 @@ According to the course plan [BMED365](https://www4.uib.no/en/courses/BMED365) t
 ### Guidelines for the Individual project
 
 
-1. Pick a topic from the BMED 365 curriculum that fits your research interests or evokes your curiosity. The topic could be your own research project, a scientific article, a review of methods with pros and cons, etc. (you can ask for advice regarding topic selection or your planned talk in the early preparation phase).
+1. Pick a topic from the BMED 365 curriculum (incorporating a **computational imaging**, **computational modeling** or an **AI** component) that fits your research interests or evokes your curiosity. The topic could be your own research project, a scientific article, a review of methods with pros and cons, etc. (you can ask for advice regarding topic selection or your planned talk in the early preparation phase).
 
 2. Prepare a presentation of the topic [make the title yourself] as if you should give a speed-talk / speed-poster  at a scientific meeting with a very motivated audience - but who might not be experts in your field.   
 
