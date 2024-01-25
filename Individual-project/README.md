@@ -13,7 +13,7 @@ According to the course plan [BMED365](https://www4.uib.no/en/courses/BMED365) t
 
 4. You might also write a short manuscript or notes telling what to say during the presentation, but avoid reading directly from your manuscript during the talk, as the notes are meant for rehearsal only.
 
-5. The presentation produced in 3. must be sent/shared on the Discord channel of the course before the session starts.<br>  
+5. The presentation produced in 3. must be sent/shared as a link on the course Discord bmed365-channel before the session starts.<br>  
 
 
 6. To guide the speed-poster presentation, **the following criteria should be considered**:
