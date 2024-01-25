@@ -79,7 +79,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with ELMED219)                                 |
 |                             | *Arvid Lundervold / Ben Bjørsvik*                                                      |
 | **Week 4<br>Fri, Jan 26**   |                                                                                        |
-| 08:15-10:00<br>BB Hist 1    | Imaging (IMC and mpMRI) - motivation, demonstration                                    |
+| 08:15-10:00<br>BB Hist 1    | [Block 2 intro](https://docs.google.com/presentation/d/e/2PACX-1vRWmHLiKkKv9MDL2ODrlLPc167us2ubPzoQGi4BxwPHp4LB3B1o0D4dK8G7DQvGGnPca7V3wjXa0KEV/pub?start=false&loop=false&delayms=3000) Imaging (IMC and mpMRI) - motivation, demonstration                                    |
 |                             | *Arvid Lundervold*                                                                     |
 | 16:00                       | Deadline for the Team Project Report - joint with ELMED219 (hand in via MittUiB)       |
 | **Week 5**                  |                                                                                        |
