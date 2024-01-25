@@ -92,7 +92,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 08:15-10:00<br>BB Hist 1    | [Lab 4: Computational imaging](./Lab4-Comp-Imag)                                       |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 7<br>Wed, Feb 14**   |                                                                                        |
-| 08:15-12:00<br>BB Hist 1    | Presentation of individual home project as **speed-poster**                            |
+| 08:15-12:00<br>BB Hist 1    | Presentation of individual home project as [**speed-poster**](./Individual-project)                            |
 |                             | *Organized as "leave-one-out": each student present, the others comment*               |
 | **Week 7<br>Fri, Feb 16**   |                                                                                        |
 | 08:15-10:00<br>BB Hist 1      | Modeling (compartment models, and more) - motivation, demonstration                  |
