@@ -85,7 +85,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 5**                  |                                                                                        |
 | **Jan 29 - Feb 02**         | Working individually on [home project](./Individual-project)                                                   |
 | **Week 6**                  |                                                                                        |
-| **Feb 05 - Feb 09**         | Working individually on [home project](./Individual project)                                                   |
+| **Feb 05 - Feb 09**         | Working individually on [home project](./Individual-project)                                                   |
 | **Week 6<br>Sat 10**        |                                                                                        |
 | 23:59                       | Deadline for the [Home Project Poster](./individual-project) (hand in via MittUiB)                             |
 | **Week 7<br>Mon, Feb 12**   |                                                                                        |
