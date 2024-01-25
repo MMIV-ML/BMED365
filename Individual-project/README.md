@@ -1,6 +1,6 @@
 # Individual project (BMED365) - poster and speed-poster presentation
 
-According to the course plan [BMED365](https://www4.uib.no/en/courses/BMED365) the second block of the course will focus on computational biomedical imaging (MRI, IMC, ...) and modelling. Between the first and second block, _the students will work on their own individual project, defined by the student henself within the scope of the course_. The output of your project (in the format of a digital poster) must be submitted at Mitt UiB before the end of block two, and your project will thereafter be presented to the rest of the students as a "speed poster". 
+According to the course plan [BMED365](https://www4.uib.no/en/courses/BMED365) the second block of the course will focus on computational biomedical imaging (MRI, IMC, ...) and modelling. Between the first and second block, _the students will work on their own individual project, defined by the student henself within the scope of the course_. The output of your project (in the format of a digital poster [suggested template](https://docs.google.com/presentation/d/e/2PACX-1vQOZk9_d-uQzvt4kECEYCK8QbKI5Xt_Ck2s48VBXJo1p_LCylmtW633Y1BTj52BLQCwcUgiD_NYNjIt/pub?start=false&loop=false&delayms=3000)) must be submitted at Mitt UiB before the end of block two, and your project will thereafter be presented to the rest of the students as a "speed poster". 
 
 ### Guidelines for the Individual project
 
