@@ -87,7 +87,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Week 6**                  |                                                                                        |
 | **Feb 05 - Feb 09**         | Working individually on [home project](./Individual-project)                                                   |
 | **Week 6<br>Sat 10**        |                                                                                        |
-| 23:59                       | Deadline for the [Home Project Poster](./individual-project) (hand in via MittUiB)                             |
+| 23:59                       | Deadline for the [Home Project Poster](./Individual-project) (hand in via MittUiB)                             |
 | **Week 7<br>Mon, Feb 12**   |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | [Lab 4: Computational imaging](./Lab4-Comp-Imag)                                       |
 |                             | *Arvid Lundervold*                                                                     |
