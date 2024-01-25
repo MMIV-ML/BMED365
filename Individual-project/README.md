@@ -23,4 +23,4 @@ Remember to share your presentation with your peers before the "speed-poster" se
 **The Individual project of making a digital poster followed by the "speed-poster" presentation is a compulsory assignment for the course**   
 
 
-**Note**: In addition to the Individual project, there will be a final digital home [exam](../Exam/README.md) in Inspera (2 hours) with MCQs and essay questions (with a pass / fail grading)
+**Note**: In addition to the Individual project, there will be a final digital home [exam](../Exam/README.md) in Inspera (2 hours) with MCQs and essay questions (with a binary grading: pass / fail)
