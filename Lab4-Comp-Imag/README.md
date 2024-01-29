@@ -1,6 +1,6 @@
 # Lab 4: Computational imaging
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2024-01-23_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2024-01-25_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -22,6 +22,10 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Learning motivations - watch these
 (in the order of duration ...)
 
+- _Uncovering Cellular Networks by Imaging Mass Cytometry_ by [Bernd Bodenmiller](https://scholar.google.com/citations?user=-crrFJYAAAAJ&hl=en), University of Zurich & ETH Zurich [[link](https://youtu.be/j3DSbg-oB8w?si=0PDiQHuHfvlUy26j)] (27:45 min)
+   - see also the [Bodenmiller lab](https://www.bodenmillerlab.com) and their GitHub repo (https://github.com/BodenmillerGroup)
+
+  
 - _The future of computational imaging_ by [Gordon Wetzstein](https://scholar.google.com/citations?user=VOf45S0AAAAJ&hl=en), Stanford University [Computational Imaging Lab](https://www.computationalimaging.org) [[link](https://youtu.be/Vw6DdUAnRXU?si=1-CFfE628stSrFBe)] (35:48 min)
    - see also Stanford University School of Engineering: The Future of Everything [podcast](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvBYuJvDuDZliJFv9ZDmKs_) 
    
