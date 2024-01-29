@@ -56,7 +56,7 @@ Download Patient1.zip (from https://zenodo.org/records/7575859) and save it in t
   
 ### Repos:
 
--  _IMC Imaging workshop 2023_ (BodenmillerGroup) [[link](https://github.com/BodenmillerGroup/ImagingWorkshop2023)]
+-  _Multiplexed Tissue Imaging Workshop 2023_ (BodenmillerGroup) [[link](https://github.com/BodenmillerGroup/ImagingWorkshop2023)]
 
 -  _steinbock_  [[link](https://github.com/BodenmillerGroup/steinbock)] A toolkit for processing multiplexed tissue images
 
