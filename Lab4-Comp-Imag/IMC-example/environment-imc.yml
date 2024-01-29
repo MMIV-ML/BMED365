@@ -17,6 +17,10 @@ dependencies:
     - gdown
     - readimc
     - steinbock
+    - napari[all]
+    - napari-imc
+
+
 
 ## Configure the Conda-environment bmed365imc for data analysis and computational imaging related to IMC (only once):
 # conda env create -f environment-imc.yml
