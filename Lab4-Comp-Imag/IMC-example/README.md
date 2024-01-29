@@ -1,6 +1,6 @@
 # Lab 4: IMC-example using the [steinbock](https://bodenmillergroup.github.io/steinbock) toolkit
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications related to Imaging Mass Cytometry (IMC). <br>  _update: 2024-01-30_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications related to Imaging Mass Cytometry (IMC). We will explore IMC data ([readimc](https://bodenmillergroup.github.io/readimc)) and use the _steinbock_ [toolkit](https://bodenmillergroup.github.io/steinbock).  <br>  _update: 2024-01-30_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -15,6 +15,20 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 <img src="./assets/example-imc-raw-data.png">
 
 -----
+Download Patient1.zip and save it in the data folder. Unzip the file and you should have the following files in the data folder:
+```bash
+├── README.md
+├── assets
+│   └── example-imc-raw-data.png
+├── data
+│   ├── Patient1.mcd
+│   ├── Patient1_pos1_1_1.txt
+│   ├── Patient1_pos1_2_2.txt
+│   └── Patient1_pos1_3_3.txt
+├── environment-imc.yml
+├── nbs
+└── refs
+```
 
 ### Video lectures:
 

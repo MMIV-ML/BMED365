@@ -15,6 +15,7 @@ dependencies:
   - pip
   - pip:
     - gdown
+    - readimc
     - steinbock
 
 ## Configure the Conda-environment bmed365imc for data analysis and computational imaging related to IMC (only once):
