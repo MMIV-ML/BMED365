@@ -14,8 +14,10 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 ## Data
 
+<a href="https://doi.org/10.5281/zenodo.7575859"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7575859.svg" alt="DOI"></a>
 
 <img src="./assets/example-imc-raw-data.png">
+
 
 -----
 Download Patient1.zip (from https://zenodo.org/records/7575859) and save it in the data folder. Unzip the file and you should have the following files in the data folder:
