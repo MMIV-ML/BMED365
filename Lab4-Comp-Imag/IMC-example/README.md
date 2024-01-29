@@ -18,7 +18,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 <img src="./assets/example-imc-raw-data.png">
 
 -----
-Download Patient1.zip and save it in the data folder. Unzip the file and you should have the following files in the data folder:
+Download Patient1.zip (from https://zenodo.org/records/7575859) and save it in the data folder. Unzip the file and you should have the following files in the data folder:
 ```bash
 ├── README.md
 ├── assets
