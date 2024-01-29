@@ -35,14 +35,16 @@ Download Patient1.zip and save it in the data folder. Unzip the file and you sho
 
 ### Video lectures:
 
-
+- _Imaging Mass Cytometry in View: Researchers talk about how Imaging Mass Cytometry is driving high-multiplex tissue imaging_  by [Standard BioTools](https://www.standardbio.com/products/technologies/imaging-mass-cytometry) (previously Fluidigm) [[link](https://share.vidyard.com/watch/neWdnyfKFwf7wewcpErsZ6)] (2:31 min)
+  
 - _Uncovering Cellular Networks by Imaging Mass Cytometry_ by [Bernd Bodenmiller](https://scholar.google.com/citations?user=-crrFJYAAAAJ&hl=en), University of Zurich & ETH Zurich [[link](https://youtu.be/j3DSbg-oB8w?si=0PDiQHuHfvlUy26j)] (27:45 min)
    - see also the [Bodenmiller lab](https://www.bodenmillerlab.com) and their GitHub repo (https://github.com/BodenmillerGroup)
 
-
+- _Tools and Trailblazers: Data Analysis Strategies and User-Developed Software Approaches_ by Standard BioTools IMC Forum [[link](https://videos.imaging.standardbio.com/watch/13scaWcA12JnXCZg8fsLQh)] (1:55:56 hrs)
    
 ### Readings:
 
+- Standard BioTools. _Need some tips on getting started with IMC?_ Blog [[link](https://www.standardbio.com/resources/blog-articles/2022/imc-data-analysis-forum-session1)]
 
 - Windhager, J., Zanotelli, V.R.T., Schulz, D. et al.  _An end-to-end workflow for multiplexed image processing and analysis_.  Nat Protoc (2023) [[link](https://doi.org/10.1038/s41596-023-00881-0)] 
 
