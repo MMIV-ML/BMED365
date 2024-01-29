@@ -41,12 +41,21 @@ Download Patient1.zip and save it in the data folder. Unzip the file and you sho
 ### Readings:
 
 
-- Windhager, J., Zanotelli, V.R.T., Schulz, D. et al.  _An end-to-end workflow for multiplexed image processing and analysis_  Nat Protoc (2023) [[link](https://doi.org/10.1038/s41596-023-00881-0)] 
+- Windhager, J., Zanotelli, V.R.T., Schulz, D. et al.  _An end-to-end workflow for multiplexed image processing and analysis_.  Nat Protoc (2023) [[link](https://doi.org/10.1038/s41596-023-00881-0)] 
+
+- Willie, E., Yang, P., Patrick, E. _The impact of similarity metrics on cell-type clustering in highly multiplexed in situ imaging cytometry data_.  Bioinformatics Advances, Volume 3, Issue 1, 2023, vbad141 [[link](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad141/7301465)]
+
+- Karimi E. ,...., Walsh L.A. _Single-cell spatial immune landscapes of primary and metastatic brain tumours_. Nature 2023;614:555–563 [[link](https://www.nature.com/articles/s41586-022-05680-3)]
   
 ### Repos:
 
 -  _steinbock_  [[link](https://github.com/BodenmillerGroup/steinbock)] A toolkit for processing multiplexed tissue images
 
+- _IMC-Brain_ [[link](https://github.com/walsh-quail-labs/IMC_Brain)] Single-cell spatial immune landscapes of primary and metastatic brain tumors (MATLAB).
+   - Data on [Zenodo](https://zenodo.org/records/7884599)
+   - Nature paper (01 Feb 2023) [link](https://www.nature.com/articles/s41586-022-05680-3)
+
+- _MCD Viewer_ [[link](https://www.standardbio.com/FluidigmSite_Assets/PrdSrv_Software/Software-Packages/MCD_Viewer/MCDViewer_V1.0.560.6_InstallationPack.zip)] A free software for viewing and exporting MCD files (Windows only).
 
 <!--
 - _100 Days of NLP </>_ by Raviraja Ghanta [[link](https://github.com/graviraja/100-Days-of-NLP)] A visual guide through NLP with Jupyter notebooks (using colab).
