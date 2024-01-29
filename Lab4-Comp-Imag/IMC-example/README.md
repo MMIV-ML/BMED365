@@ -1,6 +1,6 @@
 # Lab 4: IMC-example using the [steinbock](https://bodenmillergroup.github.io/steinbock) toolkit
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications related to Imaging Mass Cytometry (IMC). We will explore IMC data ([readimc](https://bodenmillergroup.github.io/readimc)) and use the _steinbock_ [toolkit](https://bodenmillergroup.github.io/steinbock).  <br>  _update: 2024-01-30_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications related to Imaging Mass Cytometry (IMC). We will explore IMC data ([readimc](https://bodenmillergroup.github.io/readimc)) and use the _steinbock_ [toolkit](https://bodenmillergroup.github.io/steinbock). This requires the `bmed365imc` environment - check [here](./environment-imc.yml). <br>  _update: 2024-01-30_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
