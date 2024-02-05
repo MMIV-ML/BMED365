@@ -46,7 +46,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - [Pavel Iakubovskii](https://www.linkedin.com/in/pavel-iakubovskii/?originalSubdomain=pt): _Segmentation models_  [[link](https://github.com/qubvel/segmentation_models.pytorch)] <br>(a very comprehensive Python library with Neural Networks for Image Segmentation based on PyTorch)
 
-- _Image processing notebooks_ [[link](https://github.com/topics/image-processing?l=jupyter+notebook)] A list of 145 public repositories matching "Jupyter and Image processing" using algorithms to make computers analyze the content of digital images.
+- [Yoni Chechik](https://www.linkedin.com/in/yoni-chechik): _AI_is_Math_ [[link](https://github.com/YoniChechik/AI_is_Math)] see also his https://www.aiismath.com<br>
+(a place to learn a wide range of computer vision and deep learning algorithms + the math behind them, including class notes and interactive notebooks)
+   - Also listed in _Image processing notebooks_ [[link](https://github.com/topics/image-processing?l=jupyter+notebook)] A list of 145 public repositories matching "Jupyter and Image processing" using algorithms to make computers analyze the content of digital images.
   
 <!--
 - _100 Days of NLP </>_ by Raviraja Ghanta [[link](https://github.com/graviraja/100-Days-of-NLP)] A visual guide through NLP with Jupyter notebooks (using colab).
