@@ -1,6 +1,6 @@
 # Lab 4: Computational imaging
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2024-01-25_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2024-02-05_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -35,7 +35,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - Ma J et al. _Segment anything in medical images_ (article published online 22 Jan 2024) Nature Communications 2024;15:654 [[link](https://doi.org/10.1038/s41467-024-44824-z)] CC-BY-4.0. Their GitHub repo [[MedSAM](https://github.com/bowang-lab/MedSAM)] (SAM = Segment Anything Model)
 
-  
+- Tian D et al. _The role of large language models in medical image processing: a narrative review_ (article published online 3 Jan 2024) Quant Imaging Med Surg 2024;14(1):1108-1121 [[link](https://qims.amegroups.org/article/view/119330/html)] CC-BY-4.0
+
 ### Repos:
 
 - [Pavel Iakubovskii](https://www.linkedin.com/in/pavel-iakubovskii/?originalSubdomain=pt): _Segmentation models_  [[link](https://github.com/qubvel/segmentation_models.pytorch)] <br>(a very comprehensive Python library with Neural Networks for Image Segmentation based on PyTorch)
