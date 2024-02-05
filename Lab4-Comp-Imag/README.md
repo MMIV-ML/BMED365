@@ -37,6 +37,11 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - Tian D et al. _The role of large language models in medical image processing: a narrative review_ (article published online 3 Jan 2024) Quant Imaging Med Surg 2024;14(1):1108-1121 [[link](https://qims.amegroups.org/article/view/119330/html)] CC-BY-4.0
 
+- Hu M et al. _Advancing medical imaging with language models: A journey from n-grams to ChatGPT_ ( preprint published online 11 Apr 20234) 	ArXiv 2023, /abs/2304.04920  [[link](https://arxiv.org/abs/2304.04920)]
+
+- Srivastav S et al. _ChatGPT in radiology: The advantages and limitations of artificial intelligence for medical imaging diagnosis_ (published online Jul 6 2023) Cureus 2023; 15(7): e41435 [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10404120)] CC-BY-4.0
+
+  
 ### Repos:
 
 - [Pavel Iakubovskii](https://www.linkedin.com/in/pavel-iakubovskii/?originalSubdomain=pt): _Segmentation models_  [[link](https://github.com/qubvel/segmentation_models.pytorch)] <br>(a very comprehensive Python library with Neural Networks for Image Segmentation based on PyTorch)
