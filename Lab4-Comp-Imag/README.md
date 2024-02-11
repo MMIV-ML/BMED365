@@ -19,6 +19,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 -->
 
 ------
+## Notebooks
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
