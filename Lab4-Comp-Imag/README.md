@@ -61,6 +61,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - _152 Visual Phenomena & Optical Illusions with explanations_ (by Michael Bach) [[link](https://michaelbach.de/ot)]
 
+------
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
