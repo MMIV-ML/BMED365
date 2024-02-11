@@ -19,6 +19,14 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 -->
 -----
 
+------
+
+| Notebook    |      1-Click Notebook     
+|:----------|------|
+|  [1-comp-imag.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab4-Comp-Imag/1-comp-imag.ipynb) <br> Exploration of digital images (micro and macro), image processing, and computational imaging | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab4-Comp-Imag/1-comp-imag.ipynb)<br>
+
+-----
+
 ## Learning motivations - watch these
 (in the order of duration ...)
 
@@ -61,8 +69,3 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - _152 Visual Phenomena & Optical Illusions with explanations_ (by Michael Bach) [[link](https://michaelbach.de/ot)]
 
-------
-
-| Notebook    |      1-Click Notebook     
-|:----------|------|
-|  [1-comp-imag.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab4-Comp-Imag/1-comp-imag.ipynb) <br> Exploration of digital images (micro and macro), image processing, and computational imaging | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab4-Comp-Imag/1-comp-imag.ipynb)<br>
