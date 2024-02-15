@@ -1,6 +1,6 @@
 # Lab 5: Computational modeling
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2024-02-15_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It encompasses a broad set of methodologies to understand, analyze, and predict biological and medical phenomena through mathematical and computational means.<br>  _update: 2024-02-15_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -23,7 +23,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
-|  [1-comp-imag.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab4-Comp-Imag/1-comp-imag.ipynb) <br> Exploration of digital images (micro & macro), image processing, and computational imaging (eg. Gabor filtering)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab4-Comp-Imag/1-comp-imag.ipynb)<br>
+|  [1-perf-explore.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/01-perf-explore.ipynb) <br> Exploration of dynamic susceptibility contrast (DSC) MRI that allows clinicians to determine perfusion parameters in the brain, such as cerebral blood flow, cerebral blood volume, and mean transit time.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/01-perf-explore.ipynb)<br>
 
 -----
 
