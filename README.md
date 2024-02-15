@@ -95,7 +95,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 08:15-12:00<br>BB Hist 1    | Presentation of individual home project as [**speed-poster**](./Individual-project)                            |
 |                             | *Organized as "leave-one-out": each student present, the others comment*               |
 | **Week 7<br>Fri, Feb 16**   |                                                                                        |
-| 08:15-10:00<br>BB Hist 1      | Modeling (compartment models, and more) - motivation, demonstration                  |
+| 08:15-10:00<br>BB Hist 1      | [Modeling](https://docs.google.com/presentation/d/e/2PACX-1vQ5qZ4K5atip89Vi1FjiepFYUtguS_adMwGunGVy1g0VUbbbUFb77OjjWuNhcj4mgG75P3UcURrhYyG/pub?start=false&loop=false&delayms=3000) (compartment models, and more) - motivation, demonstration                  |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 8<br>Mon, Feb 19**   |                                                                                        |
 | 08:15-10:00                 | [Lab 5: Computational modeling](./Lab5-Comp-Model)                                     |
