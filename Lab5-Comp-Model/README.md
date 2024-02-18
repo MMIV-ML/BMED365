@@ -23,7 +23,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
-|  [01-perf-explore.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/01-perf-explore.ipynb) <br> Exploration of dynamic susceptibility contrast (DSC) MRI that allows clinicians to determine perfusion parameters in the brain, such as cerebral blood flow, cerebral blood volume, and mean transit time.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/01-perf-explore.ipynb)<br>
+|  [01-perf-explore.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/01-perf-explore.ipynb) <br> Exploration of dynamic susceptibility contrast (DSC) MRI that allows clinicians to determine perfusion parameters in the brain, such as cerebral blood flow, cerebral blood volume, and mean transit time.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/01-perf-explore.ipynb)
+|  [02-SIR-model-explore.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/02-SIR-model-explore.ipynb) <br> Exploration of the SIR model in epidemiology (S=Susceptible, I=Infected, R=Recovered).| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365/blob/main/Lab5-Comp-Model/notebooks/02-SIR-model-explore.ipynb)<br>
 
 -----
 
