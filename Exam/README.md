@@ -18,10 +18,22 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
 
 - **All aids are allowed** but specify precisely which aids you have had access to and how you used these sources (look-up, search, prompt) in your submitted answers. The exam allows the use of AI to understand and explain medical AI.
 
-- The **topics covered** from the course syllabus in the MCQ and the two essay questions are among the following (_no coding is expected_): 
+- The **topics covered** from the course syllabus (lectures, readings, and assignments) in the MCQ-section and in the two essay-questions are among the following (_no coding is expected_): 
+
 
   - The equation $y \approx f(\mathbf{X}, \theta)$
-  - more TBD
+  - Image classification, object detection, and image segmentation (semantic segmentation, instance segmentation)
+  - Supervised learning, unsupervised learning, semi-supervised learning, self-supervised learning, and reinforcement learning
+  - Large language models (LLMs), multimodal foundation models; tokens, embedddings, transformers, and the concept of prompt engineering
+  - Imaging modalities e.g., MRI, CT, PET, and live cell imaging, imaging mass cytometry (IMC)
+  - The role of Python in AI and computational modeling
+  - Performance measures of predictive models (e.g., accuracy, precision, recall, F1-score, ROC-AUC, Dice score)
+  - The role of AI in experimental biomedicine (wet lab, dry lab, moist lab) and in clinical science (precision medicine, personalized medicine, P4 medicine)
+  - Computational modeling of biological systems (e.g., compartment models, ODEs, PDEs, networks, and graphs)
+  - Imaging-derived biomarkers and imaging-based parameter estimation
+  - Explainable AI, ethical AI, regulations in AI, human-in-the-loop AI
+  - Future perpectives and challenges using AI in biomedicine and health (drug discovery, self-driving labs, prompting proteins, patient similarity networks, diagnostic reasoning and problem-solving)
+  
 
 
 ## Exam Rules
@@ -31,46 +43,44 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
 
 - The highest possible score on the complete exam is 60 points, the lowest possible score is 0 points.
 
-- We will use the binary grading system with a **tentative threshold** of 20 points for passing the exam: 0-19 points is a fail, 20-60 is a pass (e.g. you will pass if you score at least 5 points on each of the essay questions and has at least one correct answer on at least 4 of the 8 MCQ questions; note that this is just an example, **the actual grading and threshold will be set by the course responsible**).<br>
+- We will use the binary grading system with a **tentative threshold** of 30 points for passing the exam: 0-29 points is a fail, 30-60 is a pass (e.g. you will pass if you score at least 5 points on each of the essay questions and has at least one correct answer on each of the 8 MCQ questions; note that this is just an example, **the actual grading and threshold will be set by the course responsible**).<br>
 
 
 
 _Side note_: The probability of getting at least 10 points on the MCQ questions **by chance** is non-negligible, i.e. try to solve:
 
-_For each of 8 MCQ questions with 5 answer options each, 2 of the 5 options are correct. For each question, you will get 3 points for exactly 1 correct answer, 5 points for the maximum of 2 correct answers, and 0 points otherwise. What is the probability of getting 10 points or more by chance across the 8 MCQ questions?_
+>_For each of 8 MCQ questions with 5 answer options each, 2 of the 5 options are correct. For each question, you will get 3 points for exactly 1 correct answer, 5 points for the maximum of 2 correct answers, and 0 points otherwise. What is the probability of getting 10 points or more by chance across the 8 MCQ questions?_
 
-Please refer to the course syllabus for more detailed information about the curriculum.
-
-
+----
 
 
-#### A few examples from similar question from previous **ELMED219** (6 ECTS, targeted at medical students) exams:
+#### A few MCQ examples and short essay questions from previous **ELMED219** (6 ECTS, targeted at medical students) exams:
 
-<img src=./example_01.png width=500>
+<img src=./assets/example_01.png width=500>
 
 -----
 
-<img src=./example_02.png width=500>
+<img src=./assets/example_02.png width=500>
 
 -----
 
-<img src=./example_07.png width=500>
+<img src=./assets/example_07.png width=500>
 
 -----
 
-<img src=./example_06.png width=500>
+<img src=./assets/example_06.png width=500>
 
 -----
 
-<img src=./example_05.png width=500>
+<img src=./assets/example_05.png width=500>
 
 -----
 
-<img src=./example_04.png width=500>
+<img src=./assets/example_04.png width=500>
 
 ---
 
-<img src=./example_03.png width=500>
+<img src=./assets/example_03.png width=500>
 
 ---
 
