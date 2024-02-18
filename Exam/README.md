@@ -24,6 +24,7 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
   - The equation $y \approx f(\mathbf{X}, \theta)$
   - Image classification, object detection, and image segmentation (semantic segmentation, instance segmentation)
   - Supervised learning, unsupervised learning, semi-supervised learning, self-supervised learning, and reinforcement learning
+  - Patient similarity networks (PSNs)
   - Large language models (LLMs), multimodal foundation models; tokens, embedddings, transformers, and the concept of prompt engineering
   - Imaging modalities e.g., MRI, CT, PET, and live cell imaging, imaging mass cytometry (IMC)
   - The role of Python in AI and computational modeling
