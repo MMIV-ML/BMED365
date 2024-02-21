@@ -14,18 +14,18 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
 
 - This is followed by **two free-text essay questions**. 
 
-- The eight MCQ questions and the two essay questions are given in both **English**, **Norsk bokmål**, and **Norsk nynorsk**. 
+- The eight MCQ questions and the two essay questions are given in both **English** and **Norsk bokmål**. 
 
 - **All aids are allowed** but specify precisely which aids you have had access to and how you used these sources (look-up, search, prompt) in your submitted answers. The exam allows the use of AI to understand and explain medical AI.
 
-- The **topics covered** from the course syllabus (lectures, readings, and assignments) in the MCQ-section and in the two essay-questions are among the following (_no coding is expected_): 
+- The **topics covered** from the course syllabus (lectures, readings, and assignments) in the MCQ-section and in the two essay questions are among the following (_no coding is expected_): 
 
 
   - The equation $y \approx f(\mathbf{X}, \theta)$
   - Image classification, object detection, and image segmentation (semantic segmentation, instance segmentation)
   - Supervised learning, unsupervised learning, semi-supervised learning, self-supervised learning, and reinforcement learning
   - Patient similarity networks (PSNs)
-  - Large language models (LLMs), multimodal foundation models; tokens, embedddings, transformers, and the concept of prompt engineering
+  - Large language models (LLMs), multimodal foundation models; tokens, embeddings, transformers, and the concept of prompt engineering
   - Imaging modalities e.g., MRI, CT, PET, and live cell imaging, imaging mass cytometry (IMC)
   - The role of Python in AI and computational modeling
   - Performance measures of predictive models (e.g., accuracy, precision, recall, F1-score, ROC-AUC, Dice score)
@@ -33,14 +33,14 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
   - Computational modeling of biological systems (e.g., compartment models, ODEs, PDEs, networks, and graphs)
   - Imaging-derived biomarkers and imaging-based parameter estimation
   - Explainable AI, ethical AI, regulations in AI, human-in-the-loop AI
-  - Future perpectives and challenges using AI in biomedicine and health (drug discovery, self-driving labs, prompting proteins, patient similarity networks, diagnostic reasoning and problem-solving)
+  - Future perspectives and challenges using AI in biomedicine and health (drug discovery, self-driving labs, prompting proteins, patient similarity networks, diagnostic reasoning, and problem-solving)
   
 
 
 ## Exam Rules
 - For the 8 **MCQ questions** with 5 answer options each, you will get 3 points for exactly 1 correct answer, 5 points for 2 correct answers, 0 points otherwise.
 
-- For each of the two **essay questions**, a particularly good answer is given 10 points; a particularly bad answer, or no answer, is given 0 points; each essay questions counts for 1/6 of the exam.
+- For each of the two **essay questions**, a particularly good answer is given 10 points; a particularly bad answer, or no answer, is given 0 points; each essay question counts for 1/6 of the exam.
 
 - The highest possible score on the complete exam is 60 points, the lowest possible score is 0 points.
 
@@ -50,7 +50,7 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
 
 _Side note_: The probability of getting at least 10 points on the MCQ questions **by chance** is non-negligible, i.e. try to solve:
 
->_For each of 8 MCQ questions with 5 answer options each, 2 of the 5 options are correct. For each question, you will get 3 points for exactly 1 correct answer, 5 points for the maximum of 2 correct answers, and 0 points otherwise. What is the probability of getting 10 points or more by chance across the 8 MCQ questions?_
+>_For each of 8 MCQ questions with 5 answer options each, 2 of the 5 options are correct. For each question, you will get 3 points for exactly 1 correct answer, 5 points for a maximum of 2 correct answers, and 0 points otherwise. What is the probability of getting 10 points or more by chance across the 8 MCQ questions?_
 
 ----
 
