@@ -35,7 +35,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ----
 
 ### UiB DIGI116 Medical Data Science (_Future Perspectives_)
-recorded by A.L. 25 Sep. 2023
+recorded by A.L. 25 Sep. 2023 (follow the instruction: "Next slide, please")
 
 [UiB DIGI-courses Digital understanding, knowledge and competence](https://www.uib.no/en/digi) - [DIGI116](https://www4.uib.no/en/courses/DIGI116)
 
