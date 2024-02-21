@@ -1,6 +1,6 @@
 # Lab 5: Computational modeling
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It encompasses a broad set of methodologies to understand, analyze, and predict biological and medical phenomena through mathematical and computational means.  It also contains sections on [Outbreak science](./outbreak-science-extra) and [Programming for Computations - Python](./prog4comp-SL-HPL-extra) by the late Hans Petter Langtangen.<br>  _update: 2024-02-18_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It encompasses a broad set of methodologies to understand, analyze, and predict biological and medical phenomena through mathematical and computational means.  It also contains sections on [Outbreak science](./outbreak-science-extra) and [Programming for Computations - Python](./prog4comp-SL-HPL-extra) by the late Hans Petter Langtangen.<br>  _update: 2024-02-21_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -29,6 +29,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 -----
 
+<!--
 ## Learning motivations - watch these
 (in the order of duration ...)
-
+-->
