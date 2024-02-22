@@ -30,7 +30,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 (in the order of most recent ...)
 
 - **Podcast**: [What's your problem](https://www.pushkin.fm/podcasts/whats-your-problem) with Jacob Goldstein - Using AI to Help Doctors Save Lives (guest: _Suchi Saria, CEO of [Bayesian Health](https://www.bayesianhealth.com), and a professor at Johns Hopkins where she runs a lab focused on machine learning and healthcare ) [[link](https://www.pushkin.fm/podcasts/whats-your-problem/using-ai-to-help-doctors-save-lives)] (40:50 min)
-- **Google**: Our next-generation model: Gemini 1.5 by Sundar Pichai, CEO Google and Alphabet & Demis Hassabis, CEO Google DeepMind [[link](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024)] (Feb 15, 2024) <br> Follow up by Simon Willison: [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video)  ( _Some spectacular experiments_ ) see also his [repo](https://github.com/simonw) (Feb 21, 2024)
+- **Google**: Our next-generation model: Gemini 1.5 by Sundar Pichai, CEO Google and Alphabet & Demis Hassabis, CEO Google DeepMind [[link](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024)] (Feb 15, 2024)
+  - A follow up by Simon Willison: [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video)  ( _Some spectacular experiments_ ) see also his [repo](https://github.com/simonw) (Feb 21, 2024)
 
   
 ### Repos:
