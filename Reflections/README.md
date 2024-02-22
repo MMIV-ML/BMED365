@@ -34,6 +34,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - **Google**: Our next-generation model: Gemini 1.5 by Sundar Pichai, CEO Google and Alphabet & Demis Hassabis, CEO Google DeepMind [[link](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024)] (Feb 15, 2024)
   - A follow up by Simon Willison: [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video)  ( _Some spectacular experiments_ ) see also his [repo](https://github.com/simonw) (Feb 21, 2024)
+ 
+- Tu T et al. Towards conversational diagnostic AI. arXiv:2401.05654 2024. Preprint submitted 11 Jan 2024. [[link](https://arxiv.org/abs/2401.05654)] <br> _At the heart of medicine lies the physician-patient dialogue, where skillful history-taking paves the way for accurate diagnosis, effective management, and enduring trust. Artificial Intelligence (AI) systems capable of diagnostic dialogue could increase accessibility, consistency, and quality of care. However, approximating clinicians' expertise is an outstanding grand challenge. Here, researchers from Google Research and Google DeepMind introduce AMIE ([Articulate Medical Intelligence Explorer](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)), a Large Language Model (LLM) based AI system optimized for diagnostic dialogue._
 
   
 ### Repos:
