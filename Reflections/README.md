@@ -21,9 +21,10 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 -->
 -----
 
-### Reflections - watch these
+### Reflections - watch or listen to these
 (in the order of duration ...)
 
+**Podcast**: [Unconfuse Me](https://www.gatesnotes.com/Podcast) with Bill Gates - Episode 6 Sam Altman [[link](https://www.youtube.com/watch?v=PkXELH6Y2lM)]  (33:06 min)
   
 ### Readings:
 (in the order of most recent ...)
