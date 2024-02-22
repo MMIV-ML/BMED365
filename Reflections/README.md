@@ -39,7 +39,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
   
 ### Repos:
+- \# biomedical: [[Here](https://github.com/topics/biomedical)] are > 200 public GitHub repositories matching this topic...
 
+- 
 ----
 
 ### UiB DIGI116 Medical Data Science (_Future Perspectives_)
