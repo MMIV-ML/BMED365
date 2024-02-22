@@ -30,6 +30,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ### Readings:
 (in the order of most recent ...)
 
+- **Google**: Our next-generation model: Gemini 1.5 by Sundar Pichai, CEO Google and Alphabet & Demis Hassabis, CEO Google DeepMind [[link](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024)] (Feb 15, 2024) <br> Follow up by Simone Willison: [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video) (Feb 21, 2024)
 
   
 ### Repos:
