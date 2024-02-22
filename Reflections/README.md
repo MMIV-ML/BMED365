@@ -24,7 +24,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ### Reflections - watch or listen to these
 (in the order of duration ...)
 
-**Podcast**: [Unconfuse Me](https://www.gatesnotes.com/Podcast) with Bill Gates - Episode 6 Sam Altman [[link](https://www.youtube.com/watch?v=PkXELH6Y2lM)]  (33:06 min)
+- **Podcast**: [Unconfuse Me](https://www.gatesnotes.com/Podcast) with Bill Gates - Episode 6 Sam Altman [[link](https://www.youtube.com/watch?v=PkXELH6Y2lM)]  (33:06 min)
+- **Podcast**: [What's your problem](https://www.pushkin.fm/podcasts/whats-your-problem) with Jacob Goldstein - Using AI to Help Doctors Save Lives (guest: _Suchi Saria is the founder and CEO of Bayesian Health, and a professor at Johns Hopkins where she runs a lab focused on machine learning and healthcare_ ) [[link](https://www.pushkin.fm/podcasts/whats-your-problem/using-ai-to-help-doctors-save-lives)] (40:50 min)
   
 ### Readings:
 (in the order of most recent ...)
