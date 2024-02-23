@@ -1,6 +1,6 @@
 # Summing up, reflections, and looking ahead
 
- _update: 2024-02-21_
+ _update: 2024-02-23_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -60,10 +60,8 @@ We let the AI pioneer and ‘Godfather of AI’ [Geoffrey Hinton](https://en.wik
 **Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?"** [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
 
 
-[https://www.youtube.com/watch?v=N1TEjTeQeg0](https://www.youtube.com/watch?v=N1TEjTeQeg0)
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
-
+[https://www.youtube.com/watch?v=N1TEjTeQeg0](https://www.youtube.com/watch?v=N1TEjTeQeg0)
 
 <!--
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/0.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
