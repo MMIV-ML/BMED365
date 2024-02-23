@@ -57,16 +57,15 @@ recorded by A.L. 27 Sep 2023 in Łódź, Poland, with a gender-swapped, non-dieg
 
 We let the AI pioneer and ‘Godfather of AI’ [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) have the last words in this course ...    
 
-**Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?"** [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
+**Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?"** [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
-[https://www.youtube.com/watch?v=N1TEjTeQeg0](https://www.youtube.com/watch?v=N1TEjTeQeg0)
+
 
 <!--
+[https://www.youtube.com/watch?v=N1TEjTeQeg0](https://www.youtube.com/watch?v=N1TEjTeQeg0)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/0.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1TEjTeQeg0?si=2YCd4nlkL7sLMHkD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 -->
