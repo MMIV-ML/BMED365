@@ -53,7 +53,7 @@ recorded by A.L. 27 Sep 2023 in Łódź, Poland, with a gender-swapped, non-dieg
 
 ----
 
-## Finale
+# Finale
 
 We let the AI pioneer and ‘Godfather of AI’ [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) have the last words in this course ...    
 
@@ -62,7 +62,13 @@ We let the AI pioneer and ‘Godfather of AI’ [Geoffrey Hinton](https://en.wik
 
 [https://www.youtube.com/watch?v=N1TEjTeQeg0](https://www.youtube.com/watch?v=N1TEjTeQeg0)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
+
+
+<!--
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/0.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1TEjTeQeg0?si=2YCd4nlkL7sLMHkD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+-->
