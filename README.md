@@ -101,7 +101,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 08:15-10:00                 | [Lab 5: Computational modeling](./Lab5-Comp-Model)                                     |
 |                             | *Arvid Lundervold*                                                                     |
 | **Week 8<br>Fri, Feb 23**   |                                                                                        |
-| 08:15-10:00<br>BB Hist 1    | Summing up, [reflections](./Reflections), future perspectives AI in biomedicine                         |
+| 08:15-10:00<br>BB Hist 1    | Summing up, [reflections](./Reflections), future perspectives AI in biomedicine, [finale](https://github.com/MMIV-ML/BMED365/tree/main/Reflections#finale)                         |
 |                             | *Arvid Lundervold*                                                              |
 |**Mon, Feb 26** | 
 ||[**Home exam**](./Exam): Duration: 2 hours;  <br>Assignment is handed out: 26.02.2024, 13:00; <br>Submission deadline: 26.02.2024, 15:00; <br>Examination system: Inspera Digital exam
