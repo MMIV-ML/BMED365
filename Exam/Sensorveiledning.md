@@ -1,6 +1,6 @@
 BMED365-2024_Exam_20240226 
 
-Evaluation guide (“Sensor-veiledning”)
+Sensor-guidence (“Sensor-veiledning”)
 
 Exam 2024-02-26 13:00-15:00 (15 candidates)
 
