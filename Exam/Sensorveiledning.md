@@ -4,6 +4,8 @@ Evaluation guide (“Sensor-veiledning”)
 
 Exam 2024-02-26 13:00-15:00 (15 candidates)
 
+-------
+
 Please solve the following MCQ, and give a justification for the two options selected as most correct compared to the three other options:
 
 Select the two most correct alternatives (3 points for exactly 1 correct answer, 5 points for 2 correct answers, 0 points otherwise):
