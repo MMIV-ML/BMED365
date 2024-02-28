@@ -6,12 +6,12 @@ Exam 2024-02-26 13:00-15:00 (15 candidates)
 
 -------
 
-Please solve the following MCQ, and give a justification for the two options selected as most correct compared to the three other options:
+INSTRUCTION: Please solve the following 8 MCQs, and for each MCQ give a justification for the two options selected as most correct compared to the three other options.
 
-Select the two most correct alternatives (3 points for exactly 1 correct answer, 5 points for 2 correct answers, 0 points otherwise):
+(3 points for exactly 1 correct answer, 5 points for 2 correct answers, 0 points otherwise)
 
 
-1. Patient Similarity Networks
+1. **Patient Similarity Networks**
 
 What are the implications of using multimodal data (e.g., genomic, proteomic, clinical notes) in constructing patient similarity networks? (Select the two most correct options)
 
@@ -39,7 +39,7 @@ Comparison with Other Options:
 
 
 
-2. Image segmentation and semi-supervised learning
+2. **Image segmentation and semi-supervised learning**
 
 How do semi-supervised learning approaches benefit biomedical image segmentation when labeled data is scarce? (Select the two most correct options)
 
@@ -67,7 +67,7 @@ Comparison with Other Options:
 
 
 
-3. Foundation models and Transformers
+3. **Foundation models and Transformers**
 
 What are the key components of the Transformer architecture that enable its effectiveness in foundation models? (Select the two most correct options)
 
@@ -95,7 +95,7 @@ Comparison with Other Options:
 
 
 
-4. MRI and IMC relationship in cancer
+4. **MRI and IMC relationship in cancer**
 
 In the context of cancer diagnosis, how can IMC and MRI be synergistically used? (Select the two most correct options)
 
@@ -124,7 +124,7 @@ Comparison with Other Options:
 
 
 
-5. y ≈ f(X; θ)
+5. **y ≈ f(X; θ)**
 
 When evaluating the performance of a model defined by y≈f(X;θ), which two aspects are primarily considered? (Select the two most correct options)
 
@@ -153,7 +153,7 @@ Comparison with Other Options:
 
 
 
-6. LLMs in genomics
+6. **LLMs in genomics**
 
 In genomic research, how are LLMs utilized? (Select the two most correct options)
 
@@ -181,7 +181,7 @@ Comparison with Other Options:
 
 
 
-7. Python and AI
+7. **Python and AI**
 
 How does Python's ecosystem support the rapid prototyping of biomedical AI applications? (Select the two most correct options)
 
@@ -209,7 +209,7 @@ Comparison with Other Options:
 
 
 
-8. Reasoning challenge in biomedical AI
+8. **Reasoning challenge in biomedical AI**
 
 Context: You are developing an AI system designed to assist in diagnosing neurological disorders from MRI scans. The AI leverages deep learning algorithms to analyze the scans and identify patterns indicative of specific conditions, such as Multiple Sclerosis (MS) and Alzheimer's Disease (AD). The goal is to enhance the accuracy of early diagnoses, thereby facilitating timely and effective treatment strategies.
 Challenge: Given the complexity of neurological disorders and the subtleties in MRI imaging, which two of the following approaches would most significantly improve the AI system's diagnostic accuracy and reliability?
@@ -240,10 +240,10 @@ Comparison with Other Options:
 
 
 
-9. Essay - The integration of AI into biomedical wet labs
+9. **Essay - The integration of AI into biomedical wet labs**
 
-Write your answer here (a particularly good answer is given 10 points, a particularly bad
-answer or no answer is given 0 points; the assignment counts for 1/6 of the exam):
+INSTRUCTION: Write your answer here (a particularly good answer is given 10 points, a particularly bad
+answer or no answer is given 0 points; the assignment counts for 1/6 of the exam).
 
 The integration of Artificial Intelligence (AI) into biomedical wet labs signifies a revolutionary leap in the realm of life sciences. This fusion harnesses AI's computational prowess to enhance the traditional wet lab's experimental, analytical, and operational processes. Wet labs, characterized by hands-on experiments with biological materials and chemicals, are instrumental in advancing our understanding of complex biological systems and in the development of medical therapies. The integration of AI into these environments is propelling the capabilities of researchers and clinicians to unprecedented levels.
 Transformative Experimental Design
@@ -263,10 +263,10 @@ The integration of AI into biomedical wet labs is transforming the landscape of 
 
 
 
-10. Essay - Computational modeling of biological processes with image-derived parameters - methods and application
+10. **Essay - Computational modeling of biological processes with image-derived parameters - methods and application**
 
-Write your answer here (a particularly good answer is given 10 points, a particularly bad
-answer or no answer is given 0 points; the assignment counts for 1/6 of the exam):
+INSTRUCTION: Write your answer here (a particularly good answer is given 10 points, a particularly bad
+answer or no answer is given 0 points; the assignment counts for 1/6 of the exam).
 
 Computational modeling of biological processes using image-derived parameters is a methodological approach that blends advanced imaging technologies with computational algorithms to understand and predict complex biological behaviors. This integrative technique has become increasingly relevant in biomedicine, offering insights into disease mechanisms, facilitating the development of new therapeutics, and enhancing personalized medicine strategies.
 Methods
