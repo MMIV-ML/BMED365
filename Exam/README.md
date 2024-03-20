@@ -91,3 +91,15 @@ and remember ....
 
 
 **Good luck with your preparation!**
+
+---------
+
+## BMED365 v2024
+
+-----
+
+<img src=./assets/all.png width=500>
+
+-----
+
+
