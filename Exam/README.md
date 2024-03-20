@@ -96,10 +96,38 @@ and remember ....
 
 ## BMED365 v2024
 
------
 
 <img src=./assets/all.png width=500>
 
 -----
+
+<img src=./assets/mcq_01.png width=500>
+
+-----
+
+<img src=./assets/mcq_02.png width=500>
+
+-----
+
+<img src=./assets/mcq_03.png width=500>
+
+-----
+
+<img src=./assets/mcq_04.png width=500>
+
+-----
+
+<img src=./assets/mcq_05.png width=500>
+
+-----
+
+<img src=./assets/mcq_06.png width=500>
+
+-----
+
+<img src=./assets/mcq_07.png width=500>
+
+-----
+
 
 
