@@ -96,7 +96,7 @@ and remember ....
 
 ## BMED365 v2024 (Norsk)
 
-_For English, see [here](./Exam.md)_
+_For English, see [here](./SENSOR-GUIDANCE.md)_
 
 <img src=./assets/all.png width=500>
 
