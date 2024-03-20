@@ -99,33 +99,29 @@ and remember ....
 
 <img src=./assets/all.png width=500>
 
------
+
 
 <img src=./assets/mcq_01.png width=500>
 
------
-
 <img src=./assets/mcq_02.png width=500>
-
------
 
 <img src=./assets/mcq_03.png width=500>
 
------
-
 <img src=./assets/mcq_04.png width=500>
-
------
 
 <img src=./assets/mcq_05.png width=500>
 
------
-
 <img src=./assets/mcq_06.png width=500>
 
------
-
 <img src=./assets/mcq_07.png width=500>
+
+<img src=./assets/mcq_08.png width=500>
+
+<img src=./assets/txt_01.png width=500>
+
+<img src=./assets/txt_02.png width=500>
+
+<img src=./assets/aid_01.png width=500>
 
 -----
 
