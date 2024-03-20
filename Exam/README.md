@@ -94,12 +94,11 @@ and remember ....
 
 ---------
 
-## BMED365 v2024
+## BMED365 v2024 (Norsk)
 
+_For English, see [here](./Exam.md)_
 
 <img src=./assets/all.png width=500>
-
-
 
 <img src=./assets/mcq_01.png width=500>
 
