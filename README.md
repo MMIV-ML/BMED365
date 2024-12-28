@@ -9,6 +9,13 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ----
 
 
+### Previous versions of the BMED365 course
+_"Computational imaging, modelling and AI in biomedicine"_
+
+| **Year**                    | Link             |
+| --------------------------- |  --              | 
+|2024 |https://github.com/MMIV-ML/BMED365-2024 |
+
 
 ### Previous versions of the ELMED219 course
 
@@ -30,9 +37,3 @@ _"In Vivo Imaging and Physiological Modelling"_
 |2020 |https://github.com/computational-medicine/BMED360-2020 |
 
 
-### Previous versions of the BMED365 course
-_"Computational imaging, modelling and AI in biomedicine"_
-
-| **Year**                    | Link             |
-| --------------------------- |  --              | 
-|2024 |https://github.com/MMIV-ML/BMED365-2024 |
